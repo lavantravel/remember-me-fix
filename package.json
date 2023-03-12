@@ -1,11 +1,11 @@
 {
-  "name": "passport-remember-me",
+  "name": "remember-me-fix",
   "version": "0.0.1",
   "description": "Remember Me cookie authentication strategy for Passport.",
   "keywords": ["passport", "cookie", "persistent", "rememberme", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-remember-me.git"
+    "url": "git://github.com/lavantravel/remember-me-fix.git"
   },
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-remember-me/issues"
